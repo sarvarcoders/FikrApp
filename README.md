@@ -31,7 +31,7 @@
 | Login / Sign Up | Fikrlar ro‘yxati | Like bosish |
 |------------------|-------------------|--------------|
 
-| ![Login](screens/login.png) | ![List](screens/list.png) | ![Like](screens/registr.png) |
+| ![Login](FikrApp/screens/login.png) | ![List](FikrApp/screens/list.png) | ![Like](FikrApp/screens/registr.png) |
 
 > Eslatma: `screens/` papkasiga Xcode simulator’da olingan rasm fayllarini joylangan
 
