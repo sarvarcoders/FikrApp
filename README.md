@@ -33,7 +33,7 @@
 
 | ![Login](screens/login.png) | ![List](screens/list.png) | ![Like](screens/registr.png) |
 
-> Eslatma: `screens/` papkasiga Xcode simulator’da olingan rasm fayllarini joylang
+> Eslatma: `screens/` papkasiga Xcode simulator’da olingan rasm fayllarini joylangan
 
 ---
 
